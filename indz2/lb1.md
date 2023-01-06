@@ -53,6 +53,7 @@
 <tr><td>9</td><td>17</td></tr>
 </tbody>
 </table>
+
 ![(2.3%)](rumor-spread_2.3.png)
 ![Влияние параметра INIT-CLIQUE на время отработки (3%)](23lb.png)
 ![Влияние параметра INIT-CLIQUE на время отработки (6%)](26lb.png)
